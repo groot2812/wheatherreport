@@ -23,5 +23,4 @@ To test or develop this application locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/weather-application.git](https://github.com/YOUR_GITHUB_USERNAME/weather-application.git)
-cd weather-application
+git clone https://github.com/groot2812/wheatherreport.git
